@@ -1,0 +1,11 @@
+before_install:
+- export NIX_CONF_DIR=~
+- echo "binary-caches = https://cache.nixos.org" >> $NIX_CONF_DIR/nix.conf
+- echo "binary-cache-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY="
+  >> $NIX_CONF_DIR/nix.conf
+language: nix
+nix: 2.2.2
+after_success: bash scripts/update.sh
+env:
+  global:
+    secure: N0d/d832ycJ6XhoQK19CD3ZGs++WsizTzNSm84rraijlvgIN3l9iMQeo4zYYDX86A5VP4J8wAOzBfIvranqsOQuYfejneUIruVMFacukyuzWhRBGIKxkYk0BmouSK2JEK+nfw6fWkGjdpgl7B96ilhKocm984mLSU7cYLdBJ5jgSLge/Wnzt3oVpuOpcUjVGc12MDZlvKsRITD8Bw78IMJe1yvYY2KfhYkz6xENXgCprmBx93TL11uTv4ut0L1DALR2hpexHV3LvnAyJljJYd8LljDtxwcQOTr3qnjo3zdbW1tQjrlHZX8AQZIAYKwDgSRoXnDq5o/1PcS9JwcJDA3YEqPgYVVo2nQTMz6xMpdKStbkkNoeI4Xjl1WDkSM1hRO/KXEtR0PwONaZIX2UoHt0QHZ5ibGPoRnZtgzKszB79LdC3DJ0X4rbfC0onNkrMmx0DNVPYf3FC5q1htuqxf49F8cd4jq2wuqd1fBQAVT1/OJXQla61cpHCtY++hineYCy59C73Mov+5Dl3fX7ANN5wYZznVKHSac/J6XMFOYqNpUQQ7HFY5EtcNMeRQm6lIsHjNisKY04JKNTC+GaRIu8H9GDAU4xDYIN7B3PvLr4WafX3ZERC4VDhJcH+gjPTyzc7cTyjg4SKAOarqa1ImtrbiHG0mymoBk1cTAVP04g=
