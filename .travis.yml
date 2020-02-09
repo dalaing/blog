@@ -1,11 +1,10 @@
 before_install:
-- export NIX_CONF_DIR=~
-- echo "binary-caches = https://cache.nixos.org" >> $NIX_CONF_DIR/nix.conf
-- echo "binary-cache-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY="
-  >> $NIX_CONF_DIR/nix.conf
+  - export NIX_CONF_DIR=~
+  - echo "binary-caches = https://cache.nixos.org" >> $NIX_CONF_DIR/nix.conf
+  - echo "binary-cache-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY=" >> $NIX_CONF_DIR/nix.conf
 language: nix
 nix: 2.2.2
 after_success: bash scripts/update.sh
 env:
   global:
-    secure: Qs8OEh87q4aoInMTmBqtw7eRKWB3hlK/6J+R7KF9KoCoCB8ASKTAi7+jTZ9lVGHBj1GKQWh/e4Li2Keh+Qh0vUo4P/jnacFOrJmY2iQV1uGvtE117V99xayVYKfj7eJu2aweR2Rn1A9VgAUWsdD9Cc2pE2I+z1VRFz2BgKfZX/jbXb2ZEWGXtTfjjCl/Q7UJp/8NcEeWtIEFJrRrsHPa1em5RHo8SnJYgEnsk8CLgD+nS5uKdBQw+819XHE2y78h5WMnKc0zJnaTLn2COM6rLjQVZySxXiH3U/vgCjr7h8WomJDpdzKWnwpZtqT6/AEBy5QvGzOgGK8xL9Ak7fmvwNBfpA2qjdeF78x6RuLSIUytU3RYNfJnXlVeWOXDlBSZ+BfduQiqo/Hpku2+5k3xB0l5cST5H6tD1qhivk2WjfxWJVvXl0JL4YiheSCSotey4ncZKefNYebzMFsv23SLLUouk0MI7WKocYOzi+YhnXQ5Mtfh1RR7KuUCr+/tFi61l9cKEEQ/0aZdZXiyOpciiNVMf3XvCevB3Tna0BYCpNs+FZvKQ9JuiObVQ1U/fEbe2BL3NN2YCtBlzeAxD0wmFmksO7Gc09dVf9AeGzFapYkcDka+AOuqiZ//UNnyuVsbTK0Q/dkBgErbRczqOT3YwBNr4Kn69e1egkDIhUC8n68=
+    secure: yWT+Tq36F0BiGGJbrS2r2jzxmtqBYgUejjR0fhuZhss+zFm4/b7v6r2LOi9k2HJgvKPX3AdXBsVIHlhoMWwm3F43CzYa6wjx03iRsUNSAIefxQ7wDeY4I6mNckDs5M4zhlIO8E/69JrJdP9qXaJcMG+nAcqVOF0qhlw7FiQhj/OqGQFSZAmKdotz2vAjuOhcT9u7jBjQlXkEAS1A+QWoklDCHtk2dym/JtxfTek3Z7ac4z69BNsFceuxeW68ko2rpa9kZSPI/mgaQDqbSwZF+jHIXuEdD7BtqKH5DwTYlcE6ZzU18Yr224Nv0ZFl9F4nSo5JZlWefdbMQmJI4Pj98nBl1gBFN0rOmp7NUrjhCeEN4FoqwkaH1WQcEdcULZXHePCoSm3krnDxtkJwolm3sL8ORRyxOLruqRgL4N63uPVIjklc3tLniHZLeNBaMQr5jpAGjRsSLItocSoH+wW0rfw8l0okR0Exa7/ydTmjXPantep9L80IodWmL51n7BWsVnunYMErlUtCJOJaRoVnXPpAEZCBNdY1hwj5my58VipVV6Q6yvNIupWZjP5knbd1vKXnnr9Dl7VVKNW+1E7Wdbe+427ogB4RjEby8rHVrJaHUeegM9ISTU9J8eqET/OGCdPGIyXuDTyDE+m3HIEe/Ny6cCDBRVjGvyYN9PQ1FPk=
