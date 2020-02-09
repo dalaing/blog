@@ -27,6 +27,7 @@ let
     installPhase = ''
       mkdir -p $out
       cp -r _site/* $out/
+      echo "dlaing.org" > $out/CNAME
     '';
 
     phases = ["unpackPhase" "buildPhase" "installPhase"];

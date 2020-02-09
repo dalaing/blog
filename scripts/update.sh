@@ -15,7 +15,6 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     # Go into directory and copy data we're interested in to that directory
     cd build || exit 1
     rsync -avvL --inplace --no-whole-file --delete --exclude=.git  ../$OUTPUT_FOLDER/ ./
-    echo "dlaing.org" > ./CNAME
     # Add, commit and push files
     git add --all .
     git commit --allow-empty -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"
