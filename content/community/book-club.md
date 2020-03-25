@@ -13,8 +13,15 @@ I'll schedule the calls once we have 3 or more people interested and willing to 
 
 Available [here](http://www.hpmor.com/) or in audiobook form [here](http://www.hpmorpodcast.com/?page_id=56)
 
+Harry Potter fan-fiction, where Harry was raised on a healthy dose of the scientific method, science fiction and logic.
+The other characters all behave rationally as well, although they mostly don't have Harry's background.
+
+This is probably not one to include the kids with, it has some more adult stuff in there.
+
 ## Rationality: From AI to Zombies
 
 Available [here](https://www.lesswrong.com/rationality).
 
-For those who like their rationality with a non-fiction flavour.
+For those who like their rationality with a non-fiction flavour.  There is plenty to think about and discuss along the way.
+
+[The Codex](https://www.lesswrong.com/codex) is shorter, lighter, and might be a bit more fun for a read along, but I think I'd like to try for a Rationality:A-Z group first.
