@@ -18,12 +18,12 @@ Here are a few to consider:
 
 I have a recurring Zoom call to allow people to come together, find other people to play with, recommend various games to play etc...
 
-The call is scheduled from 9am-midnight on Saturdays and Sundays, but I can open that up if people want.
-
-The meeting details are:
+At the moment I have the call scheduled to go from 9 AM - midnight (Brisbane time, AKA UTC+10) on weeknights, so that people can just drop in whenever and hang out:
 
 - for those joining from a browser, the link is [https://us04web.zoom.us/j/429711127?pwd=NE00SXI3Tlc3QzBqYzRLSmdjdnh6Zz09](https://us04web.zoom.us/j/429711127?pwd=NE00SXI3Tlc3QzBqYzRLSmdjdnh6Zz09)
 - for those joining from the app, the Meeting ID is 429 711 127 and the Password is 767668
+
+The idea is that people will be dropping in and dropping out when they have time, so if you are keen to hang out with someone and noone else is currently in the room, maybe consider hanging around for a little while in case other people show up.  I'll try to drum up enough interest to keep things buzzing, but we'll have to see how that goes.
 
 ## Book club
 
