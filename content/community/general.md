@@ -22,8 +22,8 @@ The call is scheduled from 9am-midnight on Saturdays and Sundays, but I can open
 
 The meeting details are:
 
-- for those joining from a browser, the link is: https://us04web.zoom.us/j/429711127
-- for those joining from the app, the Meeting ID is: 429 711 127
+- for those joining from a browser, the link is https://us04web.zoom.us/j/429711127?pwd=NE00SXI3Tlc3QzBqYzRLSmdjdnh6Zz09
+- for those joining from the app, the Meeting ID is 429 711 127 and the Password is 767668
 
 ## Book club
 
