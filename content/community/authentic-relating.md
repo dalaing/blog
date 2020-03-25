@@ -7,6 +7,8 @@ The idea is to have a of Zoom call scheduled so that people from the community c
 
 If it gets crowded and I'm in the room, I should be able to press some buttons and set up some breakout rooms for smaller, more manageable conversations.
 
+I'll try to hang out in here for at least a few hours on Thursdays from 7PM, because I'm a sentimental creature.
+
 If it gets crowded and I'm not in the room, let me know and I'll add some more meetings, so folks can jump between rooms and try to balance things out at a manageable number of people per room.
 
 I'll keep this page up to date with the details of the various calls.
