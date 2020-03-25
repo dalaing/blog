@@ -1,5 +1,5 @@
 ---
-title: BFPG stuff
+title: Functional programmer community stuff
 published: 2020-20-25
 ---
 
