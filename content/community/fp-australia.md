@@ -13,7 +13,7 @@ I'll keep this page up to date with the details of the various calls.
 
 At the moment I have the call scheduled to go from 5PM - 10PM on weeknights, so that people can just drop in whenever and hang out.
 
-- for those joining from a browser, the link is https://us04web.zoom.us/j/961078239?pwd=Z1pEVWpsOXpERXRDUTl2ZVZ6MVdSQT09
+- for those joining from a browser, the link is [https://us04web.zoom.us/j/961078239?pwd=Z1pEVWpsOXpERXRDUTl2ZVZ6MVdSQT09](https://us04web.zoom.us/j/961078239?pwd=Z1pEVWpsOXpERXRDUTl2ZVZ6MVdSQT09)
 - for those joining from the app, the Meeting ID is 961 078 239 and the Password is 438948
 
 I'm also putting together some more [general](./general.html) community activities as well.
