@@ -3,9 +3,7 @@ title: Authentic Relating stuff
 published: 2020-20-25
 ---
 
-The idea is to have a bunch of Zoom calls scheduled so that people from the community can drop it any time and chat with each other.
-
-I'll start with one call.
+The idea is to have a of Zoom call scheduled so that people from the community can drop it any time and chat with each other.
 
 If it gets crowded and I'm in the room, I should be able to press some buttons and set up some breakout rooms for smaller, more manageable conversations.
 
