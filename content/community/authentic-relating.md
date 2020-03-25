@@ -11,8 +11,6 @@ I'll try to hang out in here for at least a few hours on Thursdays from 7PM, bec
 
 If it gets crowded and I'm not in the room, let me know and I'll add some more meetings, so folks can jump between rooms and try to balance things out at a manageable number of people per room.
 
-I'll keep this page up to date with the details of the various calls.
-
 At the moment I have the call scheduled to go from 5 PM - 10 PM (Brisbane time, AKA UTC+10) on weeknights, so that people can just drop in whenever and hang out:
 
 - for those joining from a browser, the link is [https://us04web.zoom.us/j/377973154?pwd=Q1lKV21tZG16c0h1N0grL2pkdkRmUT09](https://us04web.zoom.us/j/377973154?pwd=Q1lKV21tZG16c0h1N0grL2pkdkRmUT09)
