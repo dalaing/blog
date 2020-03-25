@@ -25,6 +25,8 @@ At the moment I have the call scheduled to go from 9 AM - midnight (Brisbane tim
 
 The idea is that people will be dropping in and dropping out when they have time, so if you are keen to hang out with someone and noone else is currently in the room, maybe consider hanging around for a little while in case other people show up.  I'll try to drum up enough interest to keep things buzzing, but we'll have to see how that goes.
 
+While I'm around on the call I should be able to create breakout rooms for people who want to have side discussion etc... We'll all work it out as we go.
+
 ## Book club
 
 The plan would be to read a chapter every couple of days, and to have a half hour call twice a week to discuss the chapter that we all read.
