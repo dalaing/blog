@@ -13,4 +13,9 @@ If it gets crowded and I'm not in the room, let me know and I'll add some more m
 
 I'll keep this page up to date with the details of the various calls.
 
+At the moment I have the call scheduled to go from 5PM - 10PM on weeknights, so that people can just drop in whenever and hang out.
+
+- for those joining from a browser, the link is https://us04web.zoom.us/j/377973154?pwd=Q1lKV21tZG16c0h1N0grL2pkdkRmUT09
+- for those joining from the app, the Meeting ID is 377 973 154 and the Password is 094420
+
 I'm also putting together some more [general](./general.html) community activities as well.
