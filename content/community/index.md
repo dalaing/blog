@@ -9,6 +9,8 @@ If you have more ideas to add to the list, let me know!
 
 ## Calendar
 
+All of these events occur over [Zoom](https://zoom.us/).  You can join from your browser or from the application.  The details of the various calls are in the calendar entries:
+
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Australia%2FBrisbane&amp;src=ajF0c2NiMDJtY2ZsczkwYm1wMm42anAwNDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;showCalendars=0&amp;showTitle=1&amp;mode=AGENDA&amp;showPrint=0&amp;title=Online%20community%20events" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Daily check-in
