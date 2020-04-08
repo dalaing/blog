@@ -5,7 +5,7 @@ published: 2020-04-08
 
 I'm trying to generate ideas for community activities, so we can stay connected to each other, have some fun, and just generally be there for each other.
 
-If you have more ideas to add to the list, let me know!
+If you have more ideas to add to the list, let me know! If you want to suggest a change to the schedule, let me know!  If you want to idly chat with someone, let me know!  My email is dave.laing.80@gmail.com, and I'm fairly available these days.
 
 ## Calendar
 
