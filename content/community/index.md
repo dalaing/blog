@@ -21,7 +21,21 @@ If that time doesn't work for a big enough group of people, I'll put together a 
 
 ## Gratitude journalling
 
-TODO
+There is some good looing evidence that maintaining a gratitude journal boosts happiness.
+That seems like a good thing, let's do that.
+
+We'd be filling out entries based on two prompts that would be the same every day:
+
+- I am grateful for _ because _
+  - We are aiming for one to three entries for this one.
+- What am I looking forward to tomorrow?
+
+and a third prompt that would change from day to day.
+
+Some tips:
+
+- Ideally, we'll be writing these down with pen/pencial and paper, because there is a good chance that works better than typing it into a device.
+- Thinking ahead to what you're going to write ahead of time isn't cheating, it is encourage, because it means you're thinking in terms of gratitude throughout the day.
 
 The idea is to do this quietly as a group, in the hope that having a similar set of people turning up for this every day helps with habit formation.
 If there is time at the end and people feel like sharing some of their entries, we'll do some of that as well.
@@ -59,43 +73,50 @@ It is a classic for a reason, and is less dark than HPMOR.
 
 ## Show and tell
 
-TODO
+What is says on the tin.  One of us talks about something they find interesting, and then we all chat about it for a while.
+
+If you have something you want to present, reach out to me and I'll add it to the calendar.
+If noone has stuff in the calendar on any given week, then we can either have that night off or just hang out together.
 
 ## Authentic Relating
 
-TODO
+[This](https://www.theatlantic.com/health/archive/2017/11/the-club-where-you-bare-your-soul-to-strangers/545786/) is a good overview of what it is all about.
+[This](https://www.brisbaneauthentics.com/) is the Brisbane version of it.
+
+There is a decent chance that if you're on this page you already know about it, and even better chance that you'll end up meeting people from this group if you are doing anything on this page.
 
 ## Weekend boardgames
 
 There are websites that allow you to play boardgames online, for free.
 
-Here are a few to consider:
+Here are a couple:
 
 - [Board Game Arena](https://en.boardgamearena.com/join) 
 - [Yucata](https://www.yucata.de/en/)
 
-Some folks are also keen on [Tabeltop Simulator](https://www.tabletopsimulator.com/).
+The idea is that people will be drop in when they have time.  If you are keen to hang out with someone and noone else is currently in the room, maybe consider hanging around for a little while in case other people show up.  I'll try to drum up enough interest to keep things buzzing.
 
-I have a recurring [Zoom](https://zoom.us/) call to help people to come together, find other people to play with, recommend various games to play etc...
-
-At the moment I have the [Zoom](https://zoom.us/) call scheduled to go from 9 AM - midnight (Brisbane time, AKA UTC+10) on weekends, so that people can just drop in whenever and hang out:
-
-- for those joining from a browser, the link is [https://us04web.zoom.us/j/429711127?pwd=NE00SXI3Tlc3QzBqYzRLSmdjdnh6Zz09](https://us04web.zoom.us/j/429711127?pwd=NE00SXI3Tlc3QzBqYzRLSmdjdnh6Zz09)
-- for those joining from the app, the Meeting ID is 429 711 127 and the Password is 767668
-
-The idea is that people will be dropping in and dropping out when they have time, so if you are keen to hang out with someone and noone else is currently in the room, maybe consider hanging around for a little while in case other people show up.  I'll try to drum up enough interest to keep things buzzing, but we'll have to see how that goes.
-
-While I'm around on the call I should be able to create breakout rooms for people who want to have side discussion etc... We'll all work it out as we go.
+I'm able to create breakout rooms for people to chat in while they are playing games, or for those who want to have side discussion etc... We'll all work it out as we go.
+I'm also considering getting a premium account on Board Game Arena so we can play more games / have more control over the whole experience.
 
 ## Rationality reading group
 
-TODO
+I've done some stuff with a subset of the Berkeley rationalist community, and I think they've got some very useful tools in their belts.
+
+Harry Potter and the Methods of Rationality is meant to give people a taste for that.
+The [CFAR workshops](https://rationality.org/workshops/upcoming) are more directly aimed at teaching people applicable tools in this space, and they are awesome.
+Sara Ness from the Authentic Relating movement has a few posts on her experience with the Rationalist folks [here](https://www.patreon.com/posts/rationalists-and-8403545) and [here](https://www.patreon.com/posts/rationality-15187409).
+
+The primary aim of this group is to read through one of the following collections of posts and have discussions about them.
+
+The secondary aim, if folks are keen for it, is to talk about and practice using some of the CFAR tools to improve on those discussions.
 
 ### Rationality: From AI to Zombies
 
 Available [here](https://www.lesswrong.com/rationality).
 
-For those who like their rationality with a non-fiction flavour.  There is plenty to think about and discuss along the way.
+This is a pretty deep dive into the what and why of rationality, from the perspective of someone who got interested in the topic via thinking about AI and AI safety really hard.
+There is plenty to think about and discuss along the way.
 
 ### The Codex
 
