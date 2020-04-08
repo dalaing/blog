@@ -19,9 +19,9 @@ We go around the group once, and talk about how we feel at the moment, along wit
 
 I've pencilled in a time that works for the largest number people, based on a survey that I sent out.  If that time doesn't work for a big enough group of people, I'll put together a second session - let me know if that is you or it won't happen.
 
-## Gratitude journalling
+## Gratitude journaling
 
-There is some good looing evidence that maintaining a gratitude journal boosts happiness.  That seems like a good thing, let's do that.
+There is some good looking evidence that maintaining a gratitude journal boosts happiness.  That seems like a good thing, let's do that.
 
 We'd be filling out entries based on two prompts that would be the same every day:
 
@@ -33,7 +33,7 @@ and a third prompt that would change from day to day.
 
 Some tips:
 
-- Ideally, we'll be writing these down with pen/pencial and paper, because there is a good chance that works better than typing it into a device.
+- Ideally, we'll be writing these down with pen/pencil and paper, because there is a good chance that works better than typing it into a device.
 - Thinking ahead to what you're going to write ahead of time isn't cheating, it is encourage, because it means you're thinking in terms of gratitude throughout the day.
 
 The idea is to do this quietly as a group, in the hope that having a similar set of people turning up for this every day helps with habit formation.  If there is time at the end and people feel like sharing some of their entries, we'll do some of that as well.
@@ -61,7 +61,7 @@ We could also assign people to characters and run it like a radio play - althoug
 
 ### The Count of Monte Cristo
 
-Availble [here](http://www.gutenberg.org/ebooks/1184).
+Available [here](http://www.gutenberg.org/ebooks/1184).
 
 It is a classic for a reason, and is less dark than HPMOR.
 
@@ -69,7 +69,7 @@ It is a classic for a reason, and is less dark than HPMOR.
 
 What is says on the tin.  One of us talks about something they find interesting, and then we all chat about it for a while.
 
-If you have something you want to present, reach out to me and I'll add it to the calendar.  If noone has stuff in the calendar on any given week, then we can either have that night off or just hang out together.
+If you have something you want to present, reach out to me and I'll add it to the calendar.  If no one has stuff in the calendar on any given week, then we can either have that night off or just hang out together.
 
 ## Authentic Relating
 
@@ -87,7 +87,7 @@ Here are a couple:
 - [Board Game Arena](https://en.boardgamearena.com/join) 
 - [Yucata](https://www.yucata.de/en/)
 
-The idea is that people will be drop in when they have time.  If you are keen to hang out with someone and noone else is currently in the room, maybe consider hanging around for a little while in case other people show up.  I'll try to drum up enough interest to keep things buzzing.
+The idea is that people will be drop in when they have time.  If you are keen to hang out with someone and no one else is currently in the room, maybe consider hanging around for a little while in case other people show up.  I'll try to drum up enough interest to keep things buzzing.
 
 I'm able to create breakout rooms for people to chat in while they are playing games, or for those who want to have side discussion etc... We'll all work it out as we go.  I'm also considering getting a premium account on Board Game Arena so we can play more games / have more control over the whole experience.
 
