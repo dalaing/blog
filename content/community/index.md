@@ -17,7 +17,7 @@ All of these events occur over [Zoom](https://zoom.us/).  You can join from your
 
 We go around the group once, and talk about how we feel at the moment, along with "something else", taking a minute or two each, and then naming the next person to go.  I'll change "something else" each day.
 
-I've pencilled in a time that works for the largest number people, based on a survey that I sent out.  If that time doesn't work for a big enough group of people, I'll put together a second session - let me know if that is you or it won't happen.
+I've pencilled in a time that works for the largest number of people, based on a survey that I sent out.  If that time doesn't work for a big enough group of people, I'll put together a second session - let me know if that is you or it won't happen.
 
 ## Gratitude journaling
 
@@ -38,7 +38,7 @@ Some tips:
 
 The idea is to do this quietly as a group, in the hope that having a similar set of people turning up for this every day helps with habit formation.  If there is time at the end and people feel like sharing some of their entries, we'll do some of that as well.
 
-I've pencilled in a time that works for the largest number people, based on a survey that I sent out.  If that time doesn't work for a big enough group of people, I'll put together a second session - let me know if that is you or it won't happen.
+I've pencilled in a time that works for the largest number of people, based on a survey that I sent out.  If that time doesn't work for a big enough group of people, I'll put together a second session - let me know if that is you or it won't happen.
 
 ## Reading a book together
 
