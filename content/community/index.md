@@ -3,6 +3,8 @@ title: Online community resources
 published: 2020-04-08
 ---
 
+Update: I'm moving this over [here](https://docs.google.com/document/d/1JOUHQktny7BT9SmTrkRpYVCpMP5I56aTsTWgNKOPI-8/edit?usp=sharing) - it's a community thing rather than a "me" thing, so having it somewhere other than my personal site makes sense to me.
+
 I'm trying to generate ideas for community activities, so we can stay connected to each other, have some fun, and just generally be there for each other.
 
 If you have more ideas to add to the list, let me know! If you want to suggest a change to the schedule, let me know!  If you want to idly chat with someone, let me know!  My email is dave.laing.80@gmail.com, and I'm fairly available these days.
