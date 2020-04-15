@@ -14,6 +14,6 @@ cd build || exit 1
 rsync -avvL --inplace --no-whole-file --delete --exclude=.git  ../$OUTPUT_FOLDER/ ./
 # Add, commit and push files
 git add --all .
-git commit --allow-empty -m "build $RUN_NUMBER pushed to GitHub Pages"
+git commit --allow-empty -m "Build $RUN_NUMBER pushed to GitHub Pages"
 git push -fq origin $BRANCH > /dev/null
 echo -e "Deploy completed\\n"
