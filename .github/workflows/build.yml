@@ -1,0 +1,16 @@
+name: "Build"
+on:
+  push:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: cachix/install-nix-action@v8
+    - run: nix-build
+    - run: ./.github/workflows/update.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.BLOG_GITHUB_TOKEN }}
+        TARGET_REPO: 'dalaing/dalaing.github.io'
+        RUN_NUMBER: ${{ github.run_number }}
+        WORKFLOW: ${{ github.workflow }}
